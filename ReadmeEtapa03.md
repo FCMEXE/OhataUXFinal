@@ -4,6 +4,7 @@
 
 ![Grafo de Fluxo](image.png)
 
+
 ### **Explicação dos Pontos:**
 - **1:** O método `verificarUsuario` é iniciado, verificando o login e senha do usuário.
 - **2:** A conexão com o banco de dados é estabelecida.
